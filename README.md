@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Gabriel Sena :wave: [Visite meu GitHub!](https://discord.gg/rocketseat](https://github.com/Gabriel-Sena)https://github.com/Gabriel-Sena)
+Feito com ♥ by Gabriel Sena :wave: [Visite meu GitHub!](https://github.com/Gabriel-Sena)
