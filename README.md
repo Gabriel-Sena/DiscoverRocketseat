@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online]([https://maykbrito.github.io/devlinks](https://gabriel-sena.github.io/DiscoverRocketseat/))
+- [Acesse o projeto finalizado, online](https://gabriel-sena.github.io/DiscoverRocketseat/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Gabriel Sena :wave: [Visite meu GitHub!]([https://discord.gg/rocketseat](https://github.com/Gabriel-Sena)https://github.com/Gabriel-Sena)
+Feito com ♥ by Gabriel Sena :wave: [Visite meu GitHub!](https://discord.gg/rocketseat](https://github.com/Gabriel-Sena)https://github.com/Gabriel-Sena)
